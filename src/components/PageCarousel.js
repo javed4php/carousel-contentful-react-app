@@ -2,7 +2,7 @@ import React from "react";
 import { useQuery, gql } from "@apollo/client";
 import { Link } from "react-router-dom";
 import Slider from "react-slick";
-import { documentToReactComponents } from "@contentful/rich-text-react-renderer";
+
 import { NextArrow, PrevArrow } from "./CarouselArrows";
 
 
